@@ -3,7 +3,7 @@ uvicorn
 python-multipart
 torch
 torchvision
-opencv-python
+opencv-python-headless
 numpy
 pandas
 requests
@@ -11,3 +11,5 @@ PyYAML
 tqdm
 seaborn
 matplotlib
+ultralytics
+imageio-ffmpeg
