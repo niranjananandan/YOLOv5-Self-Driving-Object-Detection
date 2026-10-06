@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+python-multipart
+torch
+torchvision
+opencv-python
+numpy
+pandas
+requests
+PyYAML
+tqdm
+seaborn
+matplotlib
